@@ -1,0 +1,9 @@
+@tiendaweb_backend_HostAddress = http://localhost:5056
+
+GET {{tiendaweb_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+// No muestra los endpoint de gestion de usuario
+
+
+###
